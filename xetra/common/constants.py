@@ -4,7 +4,7 @@ File to store constants
 
 from enum import Enum
 
-class S3FIleTypes(Enum):
+class S3FileTypes(Enum):
     """
     Enum to store S3 file types
     """
